@@ -1,0 +1,10 @@
+{
+  "presets": ["react-native"],
+
+  "env": {
+    "knotel-unittests": {
+      "presets": ["es2017", "react"],
+      "plugins": ["transform-es2015-modules-commonjs"]
+    }
+  }
+}

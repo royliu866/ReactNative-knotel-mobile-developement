@@ -1,0 +1,11 @@
+{
+  "preset": "node-style-guide",
+  "fileExtensions": [".js", ".jsx"],
+  "maximumLineLength": 130,
+  "requireCurlyBraces": null,
+  "validateIndentation": 2,
+  "requireTrailingComma": {
+    "ignoreSingleValue": true,
+    "ignoreSingleLine": true
+  }
+}
